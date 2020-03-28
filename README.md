@@ -1,2 +1,2 @@
-# mk-adam.github.io
+# Выживи на ФИТе
 FIT
