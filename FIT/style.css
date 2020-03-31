@@ -1,0 +1,22 @@
+body {
+    background-color: darkslateblue;
+}
+
+#panels {
+    display: flex;
+    
+}
+
+.panel {
+    background-color: cornsilk;
+    border-radius: 7%;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.panel_button {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
