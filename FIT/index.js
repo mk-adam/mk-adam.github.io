@@ -15,6 +15,7 @@ function creatButton(value, fun) {
     var newButton = document.createElement("input")
     newButton.type = "button"
     newButton.value = value
+    newButton.id = "panel_button"
     newButton.onclick = fun  //Функция consL
 
     parentButton.insertBefore(newButton, buttons.nextSibling)
